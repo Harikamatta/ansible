@@ -1,5 +1,5 @@
 - name: Ping pong
   hosts: web
   tasks: 
-  - name : ping the server
+  - name: ping the server
     ansible.playbook.ping:
