@@ -5,6 +5,6 @@
     Trainer: "sivakuamr"
     Dunration: "110hrs"
   tasks: 
-  - name: check variables
+    - name: check variables
     ansible.builtin.debug:
       msg: "Hi I'm Learing {{course}} , Trainer {{Trainer}}, Duration {{Duration}}"
