@@ -1,4 +1,3 @@
-vars: 
-    Course: "Devops"
-    Trainer: "sivakumar"
-    Duration: "110HRS"
+  Course: "Devops"
+  Trainer: "sivakumar"
+  Duration: "110HRS"
