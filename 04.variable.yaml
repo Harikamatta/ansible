@@ -1,4 +1,4 @@
-- name: Variabl from playlevel
+- name: Variable from playlevel
   hosts: localhost
   vars: 
     course: "DEVOPS"
