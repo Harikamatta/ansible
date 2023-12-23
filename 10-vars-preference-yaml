@@ -5,10 +5,10 @@
   vars_prompt:
   - name: PERSON
     prompt: Please enter your name 
-    private: True
+    private: false
   - name: WISHES
     prompt: Please enter your wishes
-    private: False   
+    private: false   
    vars:
      PERSON: "Siva from PLAY"
       WISHES: "Morning from PLAY"
