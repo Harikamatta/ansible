@@ -2,9 +2,9 @@
 174.129.56.135
 
 
-course: "DEVOPS"
-Trainer: "sivakuamr"
-Duration: "110hrs"
+course="DEVOPS"
+Trainer="sivakuamr"
+Duration="110hrs"
 [catalogue]
 192.0.5.16
 192.0.5.17
