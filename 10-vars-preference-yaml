@@ -9,7 +9,7 @@
   - name: WISHES
     prompt: Please enter your wishes
     private: false   
-   vars:
+    vars:
      PERSON: "Siva from PLAY"
      WISHES: "Morning from PLAY"
   tasks:
