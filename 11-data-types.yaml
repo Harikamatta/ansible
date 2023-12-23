@@ -3,14 +3,14 @@
   vars:
     NAME: Sivakumar #key value
     Skills:
-    Devops
-    Shell
-    ansible
-    Linux
+    - Devops
+    - Shell
+    - ansible
+    - Linux
     Experience:
-    Devops: 3
-    AWS: 2
-    Docker: 1.5
+      Devops: 3
+      AWS: 2
+      Docker: 1.5
     Trainer: True
   tasks: 
   - name: print key value pair
