@@ -1,7 +1,7 @@
 [web]
 174.129.56.135
 
-
+[localhost:vars]
 course="DEVOPS"
 Trainer="sivakuamr"
 Duration="110hrs"
